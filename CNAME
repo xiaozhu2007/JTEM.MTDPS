@@ -1,1 +1,6 @@
-www.jtem.com
+www.JTEM.com
+$ dig www.JTEM.com +nostats +nocomments +nocmd
+> ;www.JTEM.com.                     IN      A
+> www.JTEM.com.              3592    IN      CNAME   ArbETaperingsky.github.io.
+> AbrETaperingsky.github.io.      43192   IN      CNAME   arbetaperingsky.github.io/index.md.
+> arbetaperingsky.github.io/index.md.      22      IN      A       199.27.10.168
